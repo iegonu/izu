@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="UCknLrEdhRCp1aegoMqRaCZg" tvg-name="DW News" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnDcvUkm6jCn6TEENsvO8bdy60g-T4lCgUWOyemCs=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",DW News
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=gOoTbPssAo4
+#EXTINF:-1 tvg-id="UCQfwfsi5VrQ8yKZ-UWmAEFg" tvg-name="France 24 English" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",France 24 English
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=oaugY_Yn6Yw
+#EXTINF:-1 tvg-id="UCNye-wNBqNL5ZzHSJj3l8Bg" tvg-name="Al Jazeera English" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQUqXvG-C_hEeRySPaaGMS1REtGd05a9RSLwIj7xc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",Al Jazeera English
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=GXfsI-zZO7s
+#EXTINF:-1 tvg-id="UCx0IoH70qVp11Qkv1pa0phQ" tvg-name="Pac-12 Networks International" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjf_PF0H_8Tq417smvoaHM9p5feXG4lwdZXVtwfRg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",Pac-12 Networks International
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=c2rMOvHQXC4
+#EXTINF:-1 tvg-id="UCSrZ3UV4jOidv8ppoVuvW9Q" tvg-name="Euronews English" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnja_dPZdy_el5IhBkj9BJUAd29fZzSs4-vaws_uPLw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",Euronews English
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=sPgqEHsONK8
+#EXTINF:-1 tvg-id="UC83jt4dlz1Gjl58fzQrrKZg" tvg-name="CNA" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniW9ewWFXD1epz9-LuzqlrpYtIyXy-A4I6VTl-E6g=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",CNA
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=XWq5kBlakcQ
+#EXTINF:-1 tvg-id="UCIYVU7fPs_n6gJIBso3ryeg" tvg-name="NBC2 News" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnghqAhbgx3TD0AYikALTOpY7mrqvpE2g0a3ndxBFw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",NBC2 News
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=tPeUHECNLKs
+#EXTINF:-1 tvg-id="UCEXGDNclvmg6RW0vipJYsTQ" tvg-name="Channels Television" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniIZweTN1Ts3Qwncd0c8PTO1Msk8jh1gqLvVx2e4Yk=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",Channels Television
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=-c8LoR84Xjs
+#EXTINF:-1 tvg-id="UCgp4A6I8LCWrhUzn-5SbKvA" tvg-name="TVC News Nigeria" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjsA6QluzyHn3LgJI5UyA3jITSlBkBYFlaB0tAUaQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",TVC News Nigeria
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=y0ehn6wyjC8
+#EXTINF:-1 tvg-id="UCoMdktPbSTixAyNGwb-UYkQ" tvg-name="Sky News" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhiSj68Il28UVufce2uB4FGuMFMjsgdnZWtEES1N1c=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",Sky News
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1 tvg-id="UCyEJX-kSj0kOOCS7Qlq2G7g" tvg-name="Arise News" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhMW90DZzwcOC1rFS5xQFheW_TfjhrI2gGkDCKjIA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",Arise News
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=l56n5lG01tI
+#EXTINF:-1 tvg-id="UCx6h-dWzJ5NpAlja1YsApdg" tvg-name="Newsmax TV" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngz83CUA8twPmE8XEuoCqA-zNC00Eic2URtfHjrxw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",Newsmax TV
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=39WrSskl3XE
+#EXTINF:-1 tvg-id="UCBi2mrWuNuyYy4gbM6fU18Q" tvg-name="ABC News" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjes9QiTK0Sv-6jI-TW-pjwqG4HhexOh2R3br0lrus=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",ABC News
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=w_Ma8oQLmSM
+#EXTINF:-1 tvg-id="UCeY0bbntWzzVIaj2z3QigXg" tvg-name="NBC News" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTmqXltPLLBOvOdYylFPlTQDrX5K8bykS0JUUUqyE=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",NBC News
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=FOoZ3FV9_fA
