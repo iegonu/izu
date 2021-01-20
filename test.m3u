@@ -27,3 +27,5 @@ pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=
 pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=w_Ma8oQLmSM
 #EXTINF:-1 tvg-id="UCeY0bbntWzzVIaj2z3QigXg" tvg-name="NBC News" tvg-language="" tvg-country="NA" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngTmqXltPLLBOvOdYylFPlTQDrX5K8bykS0JUUUqyE=s176-c-k-c0x00ffffff-no-rj-mo" tvg-url="" group-title="",NBC News
 pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=FOoZ3FV9_fA
+#EXTINF:-1 tvg-id="UCknLrEdhRCp1aegoMqRaCZg" tvg-name="DW News" tvg-language="" tvg-country="b'NG'" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngnDcvUkm6jCn6TEENsvO8bdy60g-T4lCgUWOyemCs=s800-c-k-c0xffffffff-no-rj-mo" tvg-url="" group-title="",DW News
+pipe:///bin/bash /opt/youtube4tvh/streamlink.sh https://www.youtube.com/watch?v=gOoTbPssAo4
